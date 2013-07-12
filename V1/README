@@ -1,0 +1,9 @@
+Extract the file with the archive manager
+
+To install open up a terminal with (Ctrl+Alt+T)
+
+Type: cd [Where the extracted file is]
+
+Type sudo chmod +x installer.sh
+
+Type ./installer.sh
